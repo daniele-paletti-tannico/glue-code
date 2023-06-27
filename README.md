@@ -20,6 +20,8 @@ How to create your own library:
    - project name to <project_name>
    - author name and author email
    - change the name of the project_name folder to <project_name>
+
+   You will also find a `README.md` file which you need to update with relevant information for your library.
    
    The newly renamed <project_name> folder is the root of your source code, the `__init__.py` signals to the build system that such folder
    must be handled as a python module.
